@@ -44,7 +44,7 @@ Again, rural cities have the highest average. The average for rural cities is $3
 
 ### Total fare by city
 
-Insert last png
+![TotalFare.png](https://github.com/jaousley/PyBer_Analysis/blob/main/TotalFare.png)
 
 ## Summary
 
