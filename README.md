@@ -12,7 +12,9 @@ Perform an exploratory analysis creating a variety of charts to help PyBer impro
 
 ### Total Rides
 The urban cities have 1625 total rides
+
 The suburban cities have 625 total rides
+
 The rural cities have 125 total rides
 
 The urban cities make up 68.4% of the total combined rides. 
@@ -20,7 +22,9 @@ The urban cities make up 68.4% of the total combined rides.
 
 ### Total Drivers 
 The urban cities have 2405 total drivers
+
 The suburban cities have 490 total drivers
+
 The rural cities have 78 total drivers
 
 This explains why there are more rides in the urban cities because there are more drivers compared to rural cities. 
@@ -36,7 +40,9 @@ The urban cities bring in the most revenue.
 
 ### Average Fare per Ride
 The average fare per ride in urban cities is $24.53
+
 The average fare per ride in suburban cities is $30.97
+
 The average fare per ride in rural cities is $34.62
 
 Rural cities have the least number of rides but the highest average fare per ride.
@@ -44,7 +50,9 @@ Rural cities have the least number of rides but the highest average fare per rid
 
 ### Average Fare per Driver
 The average fare per drive in urban cities is $16.57
+
 The average fare per driver in suburban cities is $39.50
+
 The average fare per driver in rural cities is $55.49
 
 Again, rural cities have the highest average. The average for rural cities is $38.92 more than the average for urban cities. 
