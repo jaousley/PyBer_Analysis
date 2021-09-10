@@ -12,7 +12,7 @@ The suburban cities have 625 total rides
 The rural cities have 125 total rides
 
 The urban cities make up 68.4% of the total combined rides. 
-Insert fig6.png
+![Fig6.png](https://github.com/jaousley/PyBer_Analysis/blob/main/Analysis/Fig6.png)
 
 ### Total Drivers 
 The urban cities have 2405 total drivers
