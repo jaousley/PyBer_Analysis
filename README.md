@@ -11,11 +11,9 @@ Perform an exploratory analysis creating a variety of charts to help PyBer impro
 
 
 ### Total Rides
-The urban cities have 1625 total rides
-
-The suburban cities have 625 total rides
-
-The rural cities have 125 total rides
+- The urban cities have 1625 total rides
+- The suburban cities have 625 total rides
+- The rural cities have 125 total rides
 
 The urban cities make up 68.4% of the total combined rides. 
 ![Fig6.png](https://github.com/jaousley/PyBer_Analysis/blob/main/Fig6(2).png)
