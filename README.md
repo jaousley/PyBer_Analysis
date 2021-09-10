@@ -6,6 +6,8 @@ Perform an exploratory analysis creating a variety of charts to help PyBer impro
 
 ## Results 
 
+![Summary.png](https://github.com/jaousley/PyBer_Analysis/blob/main/Summary.png)
+
 ### Total Rides
 The urban cities have 1625 total rides
 The suburban cities have 625 total rides
