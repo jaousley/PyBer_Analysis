@@ -4,9 +4,11 @@
 
 Perform an exploratory analysis creating a variety of charts to help PyBer improve ridesharing access and affordability for underserved neighborhoods. Through the analysis I showcase the difference in total rides, total drivers, total fares, average fare per ride, and total fare by city. 
 
+
 ## Results 
 
 ![Summary.png](https://github.com/jaousley/PyBer_Analysis/blob/main/Summary.png)
+
 
 ### Total Rides
 The urban cities have 1625 total rides
@@ -23,12 +25,14 @@ The rural cities have 78 total drivers
 
 This explains why there are more rides in the urban cities because there are more drivers compared to rural cities. 
 
+
 ### Total Fares
 The urban cities have a total fare of $39,854.38
 The suburban cities have a total fare of $19,356.33
 The rural cities have a total fare of $4,327.93
 
 The urban cities bring in the most revenue. 
+
 
 ### Average Fare per Ride
 The average fare per ride in urban cities is $24.53
@@ -37,6 +41,7 @@ The average fare per ride in rural cities is $34.62
 
 Rural cities have the least number of rides but the highest average fare per ride.
 
+
 ### Average Fare per Driver
 The average fare per drive in urban cities is $16.57
 The average fare per driver in suburban cities is $39.50
@@ -44,9 +49,11 @@ The average fare per driver in rural cities is $55.49
 
 Again, rural cities have the highest average. The average for rural cities is $38.92 more than the average for urban cities. 
 
+
 ### Total fare by city
 
 ![TotalFare.png](https://github.com/jaousley/PyBer_Analysis/blob/main/TotalFare.png)
+
 
 ## Summary
 
